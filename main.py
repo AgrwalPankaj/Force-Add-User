@@ -4,9 +4,9 @@ from pyrogram.types import ChatPermissions
 import json
 import os
 
-API_ID = 12345678  # Replace with your API ID
-API_HASH = "your_api_hash"  # Replace with your API Hash
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = 24264746  # Replace with your API ID
+API_HASH = "d32b45046f15b9ab89367a2f4cb31d3d"  # Replace with your API Hash
+BOT_TOKEN = "8006692160:AAFRcTXu5hpnYwe8QV_y69PhbVF04xR2v6g"
 
 GROUP_ID = -1002740358553
 REQUIRED_ADDS = 5
